@@ -1,0 +1,41 @@
+
+.postItemWrap{
+    margin-bottom: 40px;
+    display: block;
+}
+
+.author{
+    margin-bottom: 16px;
+
+}
+
+.avatar{
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    object-fit: cover;
+    flex-shrink: 0;
+}
+
+.name{
+    font-size: 15px;
+    margin-left: 6px;
+    font-weight: 700;
+}
+
+.content{
+    display: flex;
+    justify-content: space-between;
+}
+
+.image{
+    min-width: 400px;
+    height: 200px;
+    min-height: 200px;
+    border-radius: 25px;
+}
+
+.time{
+    text-align: right;
+    margin: 12px 30px 0 0;
+}

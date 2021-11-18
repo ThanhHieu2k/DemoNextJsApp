@@ -1,0 +1,40 @@
+
+
+.title{
+    margin-left: 32px;
+    margin-bottom: 24px;
+    
+}
+
+.highlight{
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.name{
+    margin-left: 32px;
+    width: 80%;
+    margin-bottom: 24px;
+}
+
+.nameTop{
+    margin-bottom: 24px;
+}
+
+.description{
+    margin-left: 32px;
+    width: 80%;
+}
+
+.lessons{
+    list-style: none;
+    background-color: #ccc;
+    height: 80vh;
+    padding: 0;
+}
+
+.lessonItem{
+    padding: 10px;
+    border-bottom: 0.5px solid #333;
+    
+}
